@@ -18,3 +18,7 @@ A Python-based software prototype designed to process structured inputs, evaluat
  ┣ 📜 main.py          # Main execution script & core logic
  ┣ 📜 README.md        # Project documentation
  └── 📜 requirements.txt # Dependencies (if applicable)
+
+Credit: Punnasin Khasapanasin (High School Student / Aspiring Computer Engineering Student)
+
+Disclaimer: This tool is developed for educational purposes and basic health awareness only. It does not replace professional medical diagnosis.
