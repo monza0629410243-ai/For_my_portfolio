@@ -30,6 +30,6 @@ Plaintext
 
 └── 📜 requirements.txt # This is where you can find the list of things you need to make the system work
 
-Credit: Punnasin Khasapanasin (High School Student / Aspiring Computer Engineering Student)
+Credit: Punnasin Kasapanasin (High School Student / Aspiring Computer Engineering Student)
 
 Disclaimer: This program is only meant to be a tool to help people learn about diagnosing car problems and to help with work. It is not a replacement for a mechanic or the official manuals that come with the car. Always be very careful when working with cars especially when dealing with things like high-pressure fluids, electrical systems and hot temperatures. Automotive Diagnostics & Repair is a business and this Prototype System, for Automotive Diagnostics & Repair is just a helpful tool.
