@@ -1,1 +1,1 @@
-
+This software is meant to be used as a tool and a technical reference to help with diagnostic steps. It is not meant to replace mechanical diagnosis or official factory service manuals from original equipment manufacturers. It is also not a replacement, for the skills of certified automotive repair professionals. Always follow safety rules carefully when dealing with high-pressure fluids, voltage electrical systems and extreme temperatures.
