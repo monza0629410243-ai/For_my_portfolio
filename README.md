@@ -2,11 +2,19 @@
 
 ## ☕ Support My Work
 
-<a href="https://sociabuzz.com/itsmemon_real/donate" target="_blank">
-  <img src="https://ko-fi.com/itsmemon" alt="Buy Me A Iced Coffee" height="60" width="217">
-</a>
+<div align="center">
 
-<p>If you like my projects, consider buying me a coffee or supporting me!</p>
+  <!-- ป้าย Ko-fi ขนาดใหญ่ -->
+  <a href="https://ko-fi.com/itsmemon" target="_blank">
+    <img src="https://shields.io" alt="Ko-fi Badge" height="40"/>
+  </a>
+  
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- ป้าย SocialBuzz ขนาดใหญ่ -->
+  <a href="https://sociabuzz.com/itsmemon_real/donate" target="_blank">
+    <img src="https://shields.io" alt="SocialBuzz Badge" height="40"/>
+  </a>
 
 </div>
 
