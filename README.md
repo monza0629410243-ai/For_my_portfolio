@@ -1,5 +1,15 @@
-# 💰 You can support me here
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/itsmemon)
+<div align="center">
+
+## ☕ Support My Work
+
+<a href="https://sociabuzz.com/itsmemon_real/donate" target="_blank">
+  <img src="https://ko-fi.com/itsmemon" alt="Buy Me A Iced Coffee" height="60" width="217">
+</a>
+
+<p>If you like my projects, consider buying me a coffee or supporting me!</p>
+
+</div>
+
 
 # 💻 For_my_portfolio
 
