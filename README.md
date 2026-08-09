@@ -4,19 +4,15 @@
 
 <div align="center">
 
-  <!-- ป้าย Ko-fi ขนาดใหญ่ -->
-  <a href="https://ko-fi.com/itsmemon" target="_blank">
-    <img src="https://shields.io" alt="Ko-fi Badge" height="40"/>
-  </a>
-  
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- ป้าย SocialBuzz ขนาดใหญ่ -->
-  <a href="https://sociabuzz.com/itsmemon_real/donate" target="_blank">
-    <img src="https://shields.io" alt="SocialBuzz Badge" height="40"/>
-  </a>
+<a href="https://ko-fi.com/itsmemon" target="_blank">
+  <img src="https://shields.io" alt="Ko-fi Badge" />
+</a>
+<a href="https://sociabuzz.com/itsmemon_real/donate" target="_blank">
+  <img src="https://shields.io" alt="SocialBuzz Badge" />
+</a>
 
 </div>
+
 
 
 # 💻 For_my_portfolio
