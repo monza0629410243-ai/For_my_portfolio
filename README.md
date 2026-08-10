@@ -4,8 +4,8 @@
 
 <div align="center">
 
-  [![Ko-fi](https://shields.io)](https://sociabuzz.com/itsmemon_real/tribe)
-  [![SocialBu.zz](https://shields.io)]()
+  [![Ko-fi](https://ko-fi.com/img/githubbutton sm.svg)(https://ko-fi.com/itsmemon)
+  [![SocialBu.zz](https://shields.io)](https://sociabuzz.com/itsmemon_real/tribe)
 
 </div>
 
