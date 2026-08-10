@@ -4,8 +4,9 @@
 
 <div align="center">
 
-  [![Ko-fi](https://ko-fi.com/img/githubbutton sm.svg)(https://ko-fi.com/itsmemon)
-  [![SocialBu.zz](https://shields.io)](https://sociabuzz.com/itsmemon_real/tribe)
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/itsmemon)
+  
+  [![SociaBuzz](https://img.shields.io/badge/SociaBuzz-FF5E00?style=for-the-badge&logo=sociabuzz&logoColor=white)](https://sociabuzz.com/itsmemon_real/tribe)
 
 </div>
 
