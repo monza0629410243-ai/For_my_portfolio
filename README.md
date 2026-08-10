@@ -4,16 +4,10 @@
 
 <div align="center">
 
-<a href="https://ko-fi.com/itsmemon" target="_blank">
-  <img src="https://shields.io" alt="Ko-fi Badge" />
-</a>
-<a href="https://sociabuzz.com/itsmemon_real/donate" target="_blank">
-  <img src="https://shields.io" alt="SocialBuzz Badge" />
-</a>
+  [![Ko-fi](https://shields.io)](https://sociabuzz.com/itsmemon_real/tribe)
+  [![SocialBu.zz](https://shields.io)]()
 
 </div>
-
-
 
 # 💻 For_my_portfolio
 
